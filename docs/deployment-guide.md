@@ -65,7 +65,7 @@ Clone the repository:
 
 ```bash
 cd /opt
-sudo git clone https://github.com/jorbush/pantry_keeper.git
+sudo git clone https://github.com/jorbites/pantry_keeper.git
 sudo chown -R $USER:$USER pantry_keeper
 cd pantry_keeper
 ```
